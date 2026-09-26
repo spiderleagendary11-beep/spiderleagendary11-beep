@@ -10,7 +10,7 @@
 
 <!-- Profile badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=spiderleagendary11-beep&label=PROFILE%20VIEWS&color=00d9ff&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=omchoudhari011&label=PROFILE%20VIEWS&color=00d9ff&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/github/followers/spiderleagendary11-beep?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=00d9ff&color=0d1117&labelColor=0d1117" alt="followers" />
 </p>
 

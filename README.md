@@ -24,7 +24,6 @@
 class Developer:
     def __init__(self):
         self.username = "omchoudhari011"
-        self.building = "Custodian, a personal AI assistant"
         self.code = ["TypeScript", "JavaScript", "Python"]
         self.stack = ["React", "FastAPI", "React Native", "SQLite"]
 
